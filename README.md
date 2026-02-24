@@ -16,8 +16,8 @@ It installs programs from the command line with a minimal amount of friction.
 ## Community
 
 - [Homepage](https://scoop.sh)
-- [GitHub Organization](https://github.com/ScoopInstaller)
-- [GitHub Repository](https://github.com/lukesampson/scoop)
+- [GitHub Organization](https://github.com/Unity-Billal-mesloub)
+- [GitHub Repository](https://github.com/Unity-Billal-mesloub/scoop)
 - [Discord](https://discord.gg/s9yRQHt)
 - [Gitter](https://gitter.im/lukesampson/scoop)
 - [Documentation](https://scoop.netlify.com/) UNOFFICIAL
@@ -30,27 +30,15 @@ It installs programs from the command line with a minimal amount of friction.
 
 ## Resources
 
-- [Issue Tracker](https://github.com/lukesampson/scoop/issues)
-- [Wiki](https://github.com/lukesampson/scoop/wiki)
+- [Issue Tracker](https://github.com/Unity-Billal-mesloub/scoop/issues)
+- [Wiki](https://github.com/Unity-Billal-mesloub/scoop/wiki)
 - Buckets
-  - [Main](https://github.com/ScoopInstaller/Main) OFFICIAL
-  - [Extras](https://github.com/lukesampson/scoop-extras) OFFICIAL
-  - [Java](https://github.com/ScoopInstaller/Java) OFFICIAL
-  - [Versions](https://github.com/ScoopInstaller/Versions) OFFICIAL
-  - [Nonportable](https://github.com/ScoopInstaller/Nonportable) OFFICIAL
-  - [PHP](https://github.com/ScoopInstaller/PHP) OFFICIAL
-  - [Games](https://github.com/Calinou/scoop-games)
-  - [Nightlies](https://github.com/ScoopInstaller/Nightlies) OFFICIAL (Deprecated)
-  - [nirsoft](https://github.com/kodybrown/scoop-nirsoft)
-  - [nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts)
-  - [jetbrains](https://github.com/Ash258/Scoop-JetBrains)
-  - [retools](https://github.com/TheCjw/scoop-retools)
-  - [h404bi/dorado](https://github.com/h404bi/dorado)
-  - [rasa/scoops](https://github.com/rasa/scoops)
-  - [hermanjustnu/scoop-emulators](https://github.com/hermanjustnu/scoop-emulators)
-  - [wangzq/scoop-bucket](https://github.com/wangzq/scoop-bucket)
-  - [liaoya/scoop-bucket](https://github.com/liaoya/scoop-bucket)
-  - [Sysinternals](https://github.com/Ash258/Scoop-Sysinternals)
+  - [Main](https://github.com/Unity-Billal-mesloub/Main) OFFICIAL
+  - [Extras](https://github.com/Unity-Billal-mesloub/scoop-extras) OFFICIAL
+  - [Versions](https://github.com/Unity-Billal-mesloub/Versions) OFFICIAL
+  - [Nonportable](https://github.com/Unity-Billal-mesloub/Nonportable) OFFICIAL
+  - [Games](https://github.com/Unity-Billal-mesloub/scoop-games)
+  - [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
 
 - Related Projects
   - [concfg](https://github.com/lukesampson/concfg)
