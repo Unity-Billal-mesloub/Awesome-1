@@ -48,8 +48,6 @@ It installs programs from the command line with a minimal amount of friction.
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Chawye Hsu](https://github.com/Unity-Billal-mesloub) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub) has waived all copyright and related or neighboring rights to this work.
 
 See [LICENSE](LICENSE) for more information.
