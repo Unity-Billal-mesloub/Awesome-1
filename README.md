@@ -1,6 +1,6 @@
 # Awesome Scoop
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/Unity-Billal-mesloub/awesome)
 
 A curated list of Scoop resources, and more.
 
